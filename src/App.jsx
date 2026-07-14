@@ -42,7 +42,7 @@ const QUOTES = [
 const ARTISTS = [
     {
         id: 1, name: "Meera Nair", craft: "Embroidery Artisan, 15 years", location: "Lucknow, India",
-        badge: "LXHG14kZq",
+        badge: "Embroidery",
         img: IMG_ARTIST_MEERA, // Meera Nair (Embroidery)
         expertise: "Hand embroidery, Chikankari, and thread portraiture on cotton and silk.",
         fabricRequirement: "2 cotton shirts (or equivalent 1.5m fabric) for 1 embroidered scarf.",
@@ -54,7 +54,7 @@ const ARTISTS = [
     },
     {
         id: 2, name: "Ramesh Koli", craft: "Handloom Weaver, Varanasi", location: "Varanasi, India",
-        badge: "m2rxQdchf",
+        badge: "Handloom Weaver",
         img: IMG_ARTIST_RAMESH, // Ramesh Koli (Handloom Weaver)
         expertise: "Traditional pit-loom Banarasi weaving with silk and zari thread.",
         fabricRequirement: "3kg raw silk yarn for 1 Banarasi saree length.",
@@ -65,7 +65,7 @@ const ARTISTS = [
     },
     {
         id: 3, name: "Fatima Sheikh", craft: "Draping Artist, Jaipur", location: "Jaipur, India",
-        badge: "FJvkdNf6J",
+        badge: "Draping Artist",
         img: IMG_ARTIST_FATIMA, // Fatima Sheikh (Draping Artist)
         expertise: "Fluid drape styling and structural garment draping for occasion wear.",
         fabricRequirement: "1 saree-length fabric (5.5m) per draped garment.",
